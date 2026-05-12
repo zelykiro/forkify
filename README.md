@@ -1,2 +1,3 @@
-# forkify
-A website for storing recipes
+# forkify Project
+
+Recipe application with custom recipe uploads.
